@@ -1,0 +1,30 @@
+wraper .... main content  -- .carousel.slide
+
+
+indicators ... dots at the bottom ... .carousel-indicators 
+
+
+slides    --- .carousel-inner... with ....carousel-item  
+
+
+
+controls    === carousel-controls-prev   / .carousel-controls-next 
+
+
+
+
+start with one image 
+
+
+
+data-bs-ride= "carousel" auto play 
+
+data-bs-slide-to="0" points to specific slide 
+
+active -- first slide must have it 
+
+
+
+
+
+
